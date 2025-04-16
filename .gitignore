@@ -34,6 +34,7 @@ captures/
 
 # IntelliJ (IDE配置文件)
 *.iml
+.idea
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml
@@ -66,3 +67,5 @@ fastlane/readme.md
 /app/cache/
 /app/OpenCV/
 /app/PaddleLite/
+
+app/.cxx/cmake
