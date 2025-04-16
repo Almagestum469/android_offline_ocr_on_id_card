@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.idcardocr.idcardocr'
+    //namespace 'com.idcardocr.idcardocr'
     compileSdkVersion 28
 
     defaultConfig {
